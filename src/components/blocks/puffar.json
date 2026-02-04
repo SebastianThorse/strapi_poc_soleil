@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_puffars",
+  "info": {
+    "displayName": "Puffar"
+  },
+  "options": {},
+  "attributes": {
+    "Puffar": {
+      "type": "component",
+      "component": "components.puff",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

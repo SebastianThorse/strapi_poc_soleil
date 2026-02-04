@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_puffs",
+  "info": {
+    "displayName": "Puff"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
